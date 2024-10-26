@@ -36,5 +36,9 @@ Penjelasan Mengenai Kode Python Diatas adalah untuk menemukan angka maksimum dar
             max = angka3
         print("The Maximum is:", max)
         
-Penjelasan Mengenai Kode Python Diatas adalah untuk menentukan nilai terbesar dari 3 bilangan yang di input. 
+Penjelasan Mengenai Kode Python Diatas adalah untuk menentukan nilai terbesar dari 3 bilangan yang di input. Berikut adalah penjelasan lebih lanjut:
+1. Memasukkan tiga angka. Angka 1, angka 2, angka 3 dan menyimpannya sebagai bilangan bulat
+2. Jika angka1 lebih besar dari angka2 dan angka1 lebih besar dari angka3 maka nilai maksimalnya adalah angka1
+3. Jika angka2 yang lebih besar dari angka3 maka nilai maksimalnya adalah angka2
+4. Jika tidak maka nilai maksimalnya adalah angka3
 
