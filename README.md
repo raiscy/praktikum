@@ -1,7 +1,7 @@
 # praktikum
 tugas praktikum bahasa pemrograman pertemuan 6 bahasa pemrograman 
 
-"Membuat Kode Python Dari Flowchart"
+"Membuat Kode Python Dari Flowchart Untuk Menentukan Bilangan Terbesar"
 
     max_value = 0
 
