@@ -2,6 +2,8 @@
 Tugas praktikum bahasa pemrograman pertemuan 5-6 bahasa pemrograman 
 
 "Membuat Kode Python Dari Flowchart Untuk Menentukan Bilangan Terbesar"
+![Mencari nilai maksimum](https://github.com/user-attachments/assets/7f0dcd5f-a59a-4eee-8b37-04274ee80ac1)
+
 
         max_value = 0
 
@@ -23,6 +25,7 @@ Penjelasan Mengenai Kode Python Diatas adalah untuk menemukan angka maksimum dar
 4. Saat memasukkan angka 0, loop akan berhenti beroperasi dan program mencetak nilai maksimum yang di tentukan.
 
 "Membuat Kode Python Dari Flowchart Untuk Menentukan Bilangan Terbesar Dari 3 Bilangan Yang DiInputkan
+![bilangan terbesar dari 3 angka](https://github.com/user-attachments/assets/c9ce97bb-3c17-4d99-a8c2-6d23072cd75a)
 
     angka1 = int(input("Enter a number one:"))
     angka2 = int(input("Enter a number two:"))
